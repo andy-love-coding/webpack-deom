@@ -1,0 +1,9 @@
+#t1 {
+  background: red;
+}
+.bgImg {
+  width: 1280px;
+  height: 960px;
+  background-image: url('./img/c6.jpg');
+  background-repeat: no-repeat;
+}  
